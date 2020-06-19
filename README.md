@@ -4,4 +4,4 @@ This repository contains two solutions with sample code demonstrating the drag a
 
 The UWP sample code works as expected. However, the WinUI3 Desktop sample code does not allow the user to drop the file onto the Grid.
 
-For more details about the WinUI issue, go to the issue [here](** Insert link here ).
+For more details about the WinUI issue, go to the issue [here](https://github.com/microsoft/microsoft-ui-xaml/issues/2715).
